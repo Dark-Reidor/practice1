@@ -1,0 +1,4 @@
+rootProject.name = "Lesson1"
+include ':app'
+include ':ClickButtons'
+include ':layouttype'
